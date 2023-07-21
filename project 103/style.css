@@ -1,0 +1,18 @@
+body{
+background-color: rgb(250, 197, 221);
+}
+
+#camera{
+ border:2px dashed rgb(142, 197, 255);
+ width:350px;
+ height:300px;   
+}
+
+.nameofobjects, #object_accuracy, #object_name{
+color: rgb(0, 0, 0);
+}
+
+h3{
+ width:100%;
+ font-size:35px !important;
+    }
